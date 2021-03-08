@@ -19,9 +19,14 @@ All logos are subject to licensing and usage guidelines as defined by their resp
 Where available, direct links to companies’ brand assets and guidelines are provided here.
 
 * [Campaign Monitor](https://www.campaignmonitor.com/company/brand/logo/)
+* [Constant Contact](https://brand.constantcontact.com/)
+* [HubSpot](https://www.hubspot.com/style-guide)
 * [Klaviyo](https://www.klaviyo.com/newsroom)
 * [Mailchimp](https://mailchimp.com/about/brand-assets/)
+* [Marketo](https://documents.marketo.com/legal/notices/trademark-and-guidelines.pdf)
+* [SendGrid](https://sendgrid.com/resource/brand/)
 * [SparkPost](https://www.sparkpost.com/press-kit/)
+* [Taxi for Email](https://taxiforemail.com/brand/)
 
 ## Contributing
 
