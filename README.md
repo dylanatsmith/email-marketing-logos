@@ -14,7 +14,7 @@ This repo collects vector logos for email marketing industry companies.
 
 All logos are subject to licensing and usage guidelines as defined by their respective owners.
 
-## Brand guidelines
+### Brand guidelines
 
 Where available, direct links to companies’ brand assets and guidelines are provided here.
 
