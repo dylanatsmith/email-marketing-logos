@@ -18,7 +18,9 @@ All logos are subject to licensing and usage guidelines as defined by their resp
 
 Where available, direct links to companies’ brand assets and guidelines are provided here.
 
+* [Campaign Monitor](https://www.campaignmonitor.com/company/brand/logo/)
 * [Mailchimp](https://mailchimp.com/about/brand-assets/)
+* [SparkPost](https://www.sparkpost.com/press-kit/)
 
 ## Contributing
 
