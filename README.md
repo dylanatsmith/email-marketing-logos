@@ -24,7 +24,7 @@ Where available, direct links to companies’ brand assets and guidelines are pr
 
 ## Contributing
 
-Is something missing, out of date, or inaccurate? Please create an issue.
+Is something missing, out of date, or inaccurate? Please [create an issue](https://github.com/dylanatsmith/email-marketing-logos/issues).
 
 ### Pull requests
 You’re welcome to open a PR to add or update logos. Please keep it to one logo per PR and follow the guidelines in the Format section above. Optimise your file with a tool like [SVGOMG](https://jakearchibald.github.io/svgomg/).
