@@ -18,6 +18,7 @@ All logos are subject to licensing and usage guidelines as defined by their resp
 
 Where available, direct links to companies’ brand assets and guidelines are provided here.
 
+* [Adobe Campaign](https://www.adobe.com/uk/legal/permissions/icons-web-logos.html)
 * [Campaign Monitor](https://www.campaignmonitor.com/company/brand/logo/)
 * [Constant Contact](https://brand.constantcontact.com/)
 * [HubSpot](https://www.hubspot.com/style-guide)
